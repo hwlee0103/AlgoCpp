@@ -1,5 +1,17 @@
 # Algorithm Solving with C++
 
-using Visual Studio 2019
+===============================================================
 
-- BOJ : Baekjoon Online Judge
+<BOJ : Baekjoon Online Judge>
+  using Visual Studio 2019
+  - Solved:
+    - Adding123
+    - BreakEvenPoint
+
+===============================================================
+
+<LeetCode : Problem Solving from Leet Code>
+  - Solved:
+    - Two Sum
+
+===============================================================
