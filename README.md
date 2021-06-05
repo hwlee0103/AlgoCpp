@@ -17,6 +17,7 @@ using Visual Studio 2019
 - Solved:
 
   - Two Sum
+  - Palindrome Number
 
 - Solving:
   - Add Two Numbers ; need to study about using Linked List instead of vector
