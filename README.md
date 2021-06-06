@@ -7,8 +7,11 @@
 using Visual Studio 2019
 
 - Solved:
-  - Adding123
-  - BreakEvenPoint
+  - [9095] Adding123
+  - [1712] BreakEvenPoint
+  - [2293] Coin1
+  - [1260] DfsBfs
+  - [2447] DrawStar10
 
 ===============================================================
 
