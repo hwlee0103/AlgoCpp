@@ -12,12 +12,16 @@ using Visual Studio 2019
   - [2293] Coin1
   - [1260] DfsBfs
   - [2447] DrawStar10
-  - DrawStar11
-  - Eureka Theorem
+  - [2448] DrawStar11
+  - [10448] Eureka Theorem
   - Fibonacci_5
   - FindingFraction
-  - Hansoo
-  - Moo
+  - [1065] Hansoo
+  - [5904] Moo
+  - MovingOrderofHanoi
+  - RobotCleaner
+  - RobotOnConveyorBelt
+  - TriTiling
 
 ===============================================================
 
