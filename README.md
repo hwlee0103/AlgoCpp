@@ -1,5 +1,8 @@
 # Algorithm Solving with C++
 
+- language: c++
+- tool: Visual Studio 2019
+
 ===============================================================
 
 # BOJ : Baekjoon Online Judge
