@@ -25,6 +25,8 @@ using Visual Studio 2019
   - [11729] MovingOrderofHanoi
   - [14503] RobotCleaner
   - [20055] RobotOnConveyorBelt
+  - [1748] Broj
+  - [10950] A+B - 3
 
 - Solving:
   - [2133]TriTiling
