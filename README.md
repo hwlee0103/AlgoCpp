@@ -28,6 +28,7 @@ using Visual Studio 2019
   - [1748] Broj
   - [10950] A+B - 3
   - [10951] A+B - 4
+  - [4375] Ones
 
 - Solving:
   - [2133]TriTiling
