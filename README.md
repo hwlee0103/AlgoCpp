@@ -27,6 +27,7 @@ using Visual Studio 2019
   - [20055] RobotOnConveyorBelt
   - [1748] Broj
   - [10950] A+B - 3
+  - [10951] A+B - 4
 
 - Solving:
   - [2133]TriTiling
