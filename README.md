@@ -11,6 +11,11 @@ using Visual Studio 2019
 
 - Solved:
 
+  - 시뮬레이션 & 구현:
+
+    - [10950] A+B - 3
+    - [10951] A+B - 4
+
   - [9095] Adding123
   - [1712] BreakEvenPoint
   - [2293] Coin1
@@ -26,8 +31,6 @@ using Visual Studio 2019
   - [14503] RobotCleaner
   - [20055] RobotOnConveyorBelt
   - [1748] Broj
-  - [10950] A+B - 3
-  - [10951] A+B - 4
   - [4375] Ones
   - [2609] 최대공약수와 최소공배수
 
