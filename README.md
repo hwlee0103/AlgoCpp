@@ -16,10 +16,18 @@ using Visual Studio 2019
     - [10950] A+B - 3
     - [10951] A+B - 4
 
+  - Brute Force:
+
+    - [11729] MovingOrderofHanoi
+
+  - DFS & BFS:
+
+    - [1260] DfsBfs
+
   - [9095] Adding123
   - [1712] BreakEvenPoint
   - [2293] Coin1
-  - [1260] DfsBfs
+
   - [2447] DrawStar10
   - [2448] DrawStar11
   - [10448] Eureka Theorem
@@ -27,7 +35,7 @@ using Visual Studio 2019
   - [1193] FindingFraction
   - [1065] Hansoo
   - [5904] Moo
-  - [11729] MovingOrderofHanoi
+
   - [14503] RobotCleaner
   - [20055] RobotOnConveyorBelt
   - [1748] Broj
