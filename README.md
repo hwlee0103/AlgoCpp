@@ -23,6 +23,7 @@ using Visual Studio 2019
   - Brute Force:
 
     - [11729] MovingOrderofHanoi
+    - [2309] 일곱난쟁이
 
   - DFS & BFS:
 
