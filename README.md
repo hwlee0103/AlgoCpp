@@ -11,6 +11,10 @@ using Visual Studio 2019
 
 - Solved:
 
+  - 수학:
+
+    - [2609] 최대공약수와 최소공배수
+
   - 시뮬레이션 & 구현:
 
     - [10950] A+B - 3
@@ -40,7 +44,6 @@ using Visual Studio 2019
   - [20055] RobotOnConveyorBelt
   - [1748] Broj
   - [4375] Ones
-  - [2609] 최대공약수와 최소공배수
 
 - Solving:
   - [2133]TriTiling
