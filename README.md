@@ -15,23 +15,26 @@ using Visual Studio 2019
 
     - [2609] 최대공약수와 최소공배수
 
-  - 시뮬레이션 & 구현:
-
-    - [10950] A+B - 3
-    - [10951] A+B - 4
-
   - Brute Force:
 
     - [11729] MovingOrderofHanoi
     - [2309] 일곱난쟁이
 
+  - Dynamic Programming:
+
+    - [2293] Coin1
+    - [9095] Adding123
+
+  - 시뮬레이션 & 구현:
+
+    - [10950] A+B - 3
+    - [10951] A+B - 4
+
   - DFS & BFS:
 
     - [1260] DfsBfs
 
-  - [9095] Adding123
   - [1712] BreakEvenPoint
-  - [2293] Coin1
 
   - [2447] DrawStar10
   - [2448] DrawStar11
