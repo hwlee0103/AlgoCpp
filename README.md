@@ -25,14 +25,18 @@ using Visual Studio 2019
     - [2293] Coin1
     - [9095] Adding123
 
+  - DFS & BFS:
+
+    - [1260] DfsBfs
+
   - 시뮬레이션 & 구현:
 
     - [10950] A+B - 3
     - [10951] A+B - 4
 
-  - DFS & BFS:
+  - 문자열:
 
-    - [1260] DfsBfs
+    -[1152] 단어의 개수
 
   - [1712] BreakEvenPoint
 
