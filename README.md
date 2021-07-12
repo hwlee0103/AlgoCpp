@@ -14,11 +14,17 @@ using Visual Studio 2019
   - 수학:
 
     - [2609] 최대공약수와 최소공배수
+    - [1748] Broj
 
   - Brute Force:
 
     - [11729] MovingOrderofHanoi
     - [2309] 일곱난쟁이
+    - [4375] Ones
+
+  - Divide and Conquer
+
+    - [5904] Moo
 
   - Dynamic Programming:
 
@@ -33,6 +39,7 @@ using Visual Studio 2019
 
     - [10950] A+B - 3
     - [10951] A+B - 4
+    - [20055] RobotOnConveyorBelt
 
   - 문자열:
 
@@ -46,12 +53,8 @@ using Visual Studio 2019
   - [10870] Fibonacci_5
   - [1193] FindingFraction
   - [1065] Hansoo
-  - [5904] Moo
 
   - [14503] RobotCleaner
-  - [20055] RobotOnConveyorBelt
-  - [1748] Broj
-  - [4375] Ones
 
 - Solving:
   - [2133] TriTiling
