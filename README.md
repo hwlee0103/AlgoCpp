@@ -40,10 +40,8 @@ using Visual Studio 2019
     - [10950] A+B - 3
     - [10951] A+B - 4
     - [20055] RobotOnConveyorBelt
-
-  - 문자열:
-
-    -[1152] 단어의 개수
+    - [1152] 단어의 개수
+    - [5622] BAKA : 다이얼
 
   - [1712] BreakEvenPoint
 
