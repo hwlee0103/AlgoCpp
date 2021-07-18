@@ -32,6 +32,7 @@ using Visual Studio 2019
 
     - [2293] Coin1
     - [9095] Adding123
+    - [9184] Function Run Fun
 
   - DFS & BFS:
 
