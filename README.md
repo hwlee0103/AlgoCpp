@@ -37,6 +37,7 @@ using Visual Studio 2019
   - DFS & BFS:
 
     - [1260] DfsBfs
+    - [2178] 미로 탐색
 
   - 시뮬레이션 & 구현:
 
