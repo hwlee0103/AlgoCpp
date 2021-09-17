@@ -27,6 +27,7 @@ using Visual Studio 2019
   - Divide and Conquer
 
     - [5904] Moo
+    - [2447] DrawStar10
 
   - Dynamic Programming:
 
@@ -50,7 +51,6 @@ using Visual Studio 2019
 
   - [1712] BreakEvenPoint
 
-  - [2447] DrawStar10
   - [2448] DrawStar11
   - [10448] Eureka Theorem
   - [10870] Fibonacci_5
