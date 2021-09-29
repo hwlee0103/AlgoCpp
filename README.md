@@ -49,6 +49,7 @@ using Visual Studio 2019
     - [1152] 단어의 개수
     - [5622] BAKA : 다이얼
     - [2908] FILIP : 상수
+    - [2941] LJESNJAK : 크로아티아 알파벳 - 문자열
 
   - [1712] BreakEvenPoint
 
